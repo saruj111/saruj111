@@ -7,7 +7,7 @@
 ### 🧰 Technical Skills
 
 * **Cloud & Infrastructure:** AWS (IAM, S3, EC2, CloudFront, Lambda, AWS SAM), Oracle Cloud (OCI Compute, VCN, NSGs), Docker, Linux (Ubuntu/WSL2, Bash), Hyper-V virtualization.
-* **Security Operations & SIEM:** Splunk Enterprise (SPL, log correlation, SIEM CTF), Wireshark (PCAP analysis, BEC detection), Wazuh FIM (file integrity validation), Nginx (DoS mitigation & proxy setup).
+* **Security Operations & SIEM:** Splunk Enterprise (SPL, Dashboards, log correlation, SIEM CTF), Wireshark (PCAP analysis, BEC detection), Wazuh FIM (file integrity validation), Nginx (DoS mitigation & proxy setup).
 * **Forensics & Incident Response:** The Sleuth Kit (`fls`, `icat`, `istat`, partition carving), SHA-256 chain-of-custody tooling, NIST IR Framework playbooks, Social-Engineering Toolkit (SET).
 * **Compliance & GRC:** PCI DSS v4.0.1, NIST SP 800-53 Rev. 5, HIPAA, security baselines (Microsoft/CIS), Risk Registers, FAIR Financial Modeling.
 * **Scripting & Data:** Python, SQL, JavaScript, Snowflake, Tableau, Datadog, Jira, GitHub Actions (CI/CD).
