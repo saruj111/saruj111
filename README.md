@@ -1,6 +1,6 @@
 ### Hi there, I'm Aruj! 👋
 
-**Cloud & Cybersecurity Practitioner** with 5+ years of operational experience in HIPAA-regulated environments. I specialize in designing secure cloud infrastructure, implementing access controls, conducting IT audits, and building automated security monitoring pipelines.
+**Cloud & Cybersecurity Practitioner** with 5+ years of operational experience in HIPAA-regulated environments. I specialize in designing secure cloud infrastructure, implementing access controls, conducting IT audits, and building automated security monitoring pipelines for **healthcare, banking, fintech, healthtech and enterprise systems**.
 
 ---
 
@@ -16,11 +16,11 @@
 
 ### 📌 Featured Projects
 
-* **[Meridian Pay Security Program](https://github.com/saruj111/meridian-pay-security-program)**  
-  *End-to-end fintech payments platform deployed on Oracle Cloud.*  
-  * **Security Audit:** Evaluated infrastructure against PCI DSS and NIST 800-53; remediated BOLA/IDOR vulnerabilities and database permissions; built a risk register with FAIR loss modeling.  
-  * **Fraud Forensics:** Simulated account-takeover fraud and transaction structuring; performed disk carving using The Sleuth Kit (`fls`, `icat`) with SHA-256 chain-of-custody logging.  
-  * **Threat Hunt & IR:** Conducted containerized multi-stage intrusions (`attacker-01`), hypothesis-driven threat hunting in Splunk, and MITRE ATT&CK / OWASP API mapping.
+* **[Payment Processing & Fraud Detection Platform](https://github.com/saruj111/payment-processing-fraud-platform)**  
+  *End-to-end fintech payments and transaction platform deployed on Oracle Cloud.*  
+  * **Security Audit:** Evaluated infrastructure and application access controls against PCI DSS and NIST 800-53; remediated BOLA/IDOR vulnerabilities; produced a risk register modeled after **commercial banking risk frameworks**.  
+  * **Fraud Forensics:** Simulated account-takeover fraud, transaction structuring, and synthetic **banking-style fund transfers**; performed disk forensics using The Sleuth Kit with SHA-256 chain-of-custody logging.  
+  * **Threat Hunt & IR:** Conducted containerized multi-stage network intrusions, hypothesis-driven threat hunting in Splunk, and MITRE ATT&CK mapping tailored to **financial sector threat intelligence**.
 
 * **[The Cloud Resume Challenge](https://github.com/saruj111/cloud-resume-challenge)**  
   *Full-Stack Serverless Infrastructure.*  
